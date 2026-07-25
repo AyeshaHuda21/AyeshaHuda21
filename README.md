@@ -13,10 +13,8 @@ and I'm continuously learning by building real-world projects.
 ## 👩‍💻 About Me
 
 - 🎓 Bachelor's student in Artificial Intelligence & Machine Learning
-- 🤖 Interested in AI, Machine Learning & Generative AI
 - 🧠 Currently strengthening my DSA & problem-solving skills
 - 🔭 Working on AI-powered projects
-- 🌱 Currently learning and exploring new technologies
 - 🚀 Interested in hackathons, innovation challenges & collaborative projects
 
 ---
