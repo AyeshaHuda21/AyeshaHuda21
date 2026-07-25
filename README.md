@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ayesha Huda 👋
 
-<!--
-**AyeshaHuda21/AyeshaHuda21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & ML Student | GenAI Enthusiast | ML Explorer
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence & Machine Learning student passionate about
+building intelligent, practical, and user-focused solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across AI/ML, Generative AI, and full-stack development,
+and I'm continuously learning by building real-world projects.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Bachelor's student in Artificial Intelligence & Machine Learning
+- 🤖 Interested in AI, Machine Learning & Generative AI
+- 🧠 Currently strengthening my DSA & problem-solving skills
+- 🔭 Working on AI-powered projects
+- 🌱 Currently learning and exploring new technologies
+- 🚀 Interested in hackathons, innovation challenges & collaborative projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+ C| Java | Python| SQL| flutter
+
+### AI / Machine Learning
+Machine Learning | NLP | Generative AI | Scikit-learn
+TensorFlow | Pandas | NumPy
+
+### Web Development
+React | Node.js | Express |
+HTML | CSS | JavaScript
+
+### Databases
+MongoDB | MySQL
+
+### Tools
+Git | GitHub | VS Code | Postman| Tableau | Code Blocks | Jupyter Notebook | Colab
