@@ -36,4 +36,4 @@ HTML | CSS | JavaScript
 MongoDB | MySQL
 
 ### Tools
-Git | GitHub | VS Code | Postman| Tableau | Code Blocks | Jupyter Notebook | Colab
+GitHub | VS Code | Postman| Tableau | Code Blocks | Jupyter Notebook | Colab
