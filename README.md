@@ -22,7 +22,7 @@ and I'm continuously learning by building real-world projects.
 ## 🛠️ Tech Stack
 
 ### Languages
- C| Java | Python| SQL| flutter
+ C| Java | Python| SQL| Flutter
 
 ### AI / Machine Learning
 Machine Learning | NLP | Generative AI | Scikit-learn
