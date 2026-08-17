@@ -28,6 +28,9 @@ and I'm continuously learning by building real-world projects.
 Machine Learning | NLP | Generative AI | Scikit-learn
 TensorFlow | Pandas | NumPy
 
+### Big data & Analytics
+Hadoop | HDFS | MapReduce 
+
 ### Web Development
 React | Node.js | Express |
 HTML | CSS | JavaScript
