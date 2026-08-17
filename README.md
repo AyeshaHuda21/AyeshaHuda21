@@ -2,7 +2,7 @@
 
 ### AI & ML Student | GenAI Enthusiast | ML Explorer
 
-I'm an Artificial Intelligence & Machine Learning student passionate about
+I'm a Final Year Artificial Intelligence & Machine Learning student passionate about
 building intelligent, practical, and user-focused solutions.
 
 I enjoy working across AI/ML, Generative AI, and full-stack development,
