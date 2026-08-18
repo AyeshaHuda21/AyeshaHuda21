@@ -33,7 +33,7 @@ Hadoop | HDFS | MapReduce
 
 ### Web Development
 React | Node.js | Express |
-HTML | CSS | JavaScript
+HTML | JavaScript
 
 ### Databases
 MongoDB | MySQL
